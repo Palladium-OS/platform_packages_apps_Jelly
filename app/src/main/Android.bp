@@ -38,4 +38,5 @@ android_app {
 
     sdk_version: "current",
 
+    overrides: ["Browser2"],
 }
